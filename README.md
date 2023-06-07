@@ -8,4 +8,4 @@ These projects were completed for Practicum's Data Scientist professional traini
 
 | Nombre del proyecto | Descripción | Librerías usadas| 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Crankshaft List](real_estate) | Determinar los factores que influyen en el precio de un vehículo. | *pandas*, *numpy*, *datetime*|
+| [Crankshaft List] | Determinar los factores que influyen en el precio de un vehículo. | *pandas*, *numpy*, *datetime*|
